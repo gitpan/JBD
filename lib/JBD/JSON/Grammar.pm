@@ -1,6 +1,6 @@
 package JBD::JSON::Grammar;
 # ABSTRACT: a JSON grammar
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 # A JSON grammar.
 # @author Joel Dalley
@@ -138,7 +138,7 @@ JBD::JSON::Grammar - a JSON grammar
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

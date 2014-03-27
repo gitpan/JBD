@@ -1,5 +1,5 @@
 # ABSTRACT: JBD is a namespace
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 package JBD; 1;
 
@@ -15,7 +15,7 @@ JBD - JBD is a namespace
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

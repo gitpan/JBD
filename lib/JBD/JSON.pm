@@ -1,6 +1,6 @@
 package JBD::JSON;
 # ABSTRACT: provides JSON parsing subs
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 # JSON parsing subs.
 # @author Joel Dalley
@@ -47,7 +47,7 @@ JBD::JSON - provides JSON parsing subs
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

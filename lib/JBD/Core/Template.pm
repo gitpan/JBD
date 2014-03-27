@@ -1,6 +1,6 @@
 package JBD::Core::Template;
 # ABSTRACT: provides render, which merges a template file and replacements
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 #/ Provides render(), which takes a template file and its
 #/ (placeholder, value) pairs, and renders the template.
@@ -52,7 +52,7 @@ JBD::Core::Template - provides render, which merges a template file and replacem
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

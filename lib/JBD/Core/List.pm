@@ -1,6 +1,6 @@
 package JBD::Core::List;
 # ABSTRACT: list utilities
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 # List utilities.
 # @author Joel Dalley
@@ -102,7 +102,7 @@ JBD::Core::List - list utilities
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

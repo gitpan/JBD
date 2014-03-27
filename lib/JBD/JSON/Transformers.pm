@@ -1,6 +1,6 @@
 package JBD::JSON::Transformers;
 # ABSTRACT: JSON parser token transformers
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 # JSON parser token transformers.
 # @author Joel Dalley
@@ -37,7 +37,7 @@ JBD::JSON::Transformers - JSON parser token transformers
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

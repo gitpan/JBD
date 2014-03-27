@@ -1,6 +1,6 @@
 package JBD::Core::Date;
 # ABSTRACT: date functions
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 #/ Date functions.
 #/ @author Joel Dalley
@@ -132,7 +132,7 @@ JBD::Core::Date - date functions
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

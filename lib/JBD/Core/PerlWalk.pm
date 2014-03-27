@@ -1,6 +1,6 @@
 package JBD::Core::PerlWalk;
 # ABSTRACT: wrapper for File::DirWalk
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 #/ Wrapper for File::DirWalk.
 #/ @author Joel Dalley
@@ -44,7 +44,7 @@ JBD::Core::PerlWalk - wrapper for File::DirWalk
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

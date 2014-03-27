@@ -1,6 +1,6 @@
 package JBD::Parser::Token;
 # ABSTRACT: expresses a (type, value) pair as an object
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 # A token.
 # @author Joel Dalley
@@ -92,7 +92,7 @@ JBD::Parser::Token - expresses a (type, value) pair as an object
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 
