@@ -1,6 +1,6 @@
 package JBD::Core::stern;
 # ABSTRACT: exports warnings and strict; also provides puke() and barf()
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 #/ Warnings and strict.
 #/ @author Joel Dalley
@@ -42,7 +42,7 @@ JBD::Core::stern - exports warnings and strict; also provides puke() and barf()
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 AUTHOR
 

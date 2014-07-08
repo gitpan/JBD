@@ -1,6 +1,6 @@
 package JBD::Parser::Lexer::Std;
 # ABSTRACT: provides standard lexer types
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 # Provides standard lexer types.
 # @author Joel Dalley.
@@ -86,7 +86,7 @@ JBD::Parser::Lexer::Std - provides standard lexer types
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 AUTHOR
 

@@ -1,5 +1,5 @@
 # ABSTRACT: no-dependency modules, many of which provide similar functionality to CPAN (and some Core) favorites
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 package JBD::Core; 1;
 
@@ -15,7 +15,7 @@ JBD::Core - no-dependency modules, many of which provide similar functionality t
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 AUTHOR
 

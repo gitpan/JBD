@@ -1,6 +1,6 @@
 package JBD::Parser::DSL;
 # ABSTRACT: provides an import sub that exports everything in @map
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 # Provides an import sub that exports everything in @map.
 # @author Joel Dalley
@@ -57,7 +57,7 @@ JBD::Parser::DSL - provides an import sub that exports everything in @map
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 AUTHOR
 

@@ -1,6 +1,6 @@
 package JBD::Core::Exporter;
 # ABSTRACT: An import abstraction, not unlike (but much simpler than) Exporter
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 # Provides import().
 # In particular, ':omni' has been useful a pragma.
@@ -76,7 +76,7 @@ JBD::Core::Exporter - An import abstraction, not unlike (but much simpler than) 
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 AUTHOR
 

@@ -1,6 +1,6 @@
 package JBD::Parser::Lexer;
 # ABSTRACT: Provides match() and tokens()
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 # match()  - Determines the token (type, value) pair for
 #            the given text and associated pattern-matcher
@@ -112,7 +112,7 @@ JBD::Parser::Lexer - Provides match() and tokens()
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 AUTHOR
 

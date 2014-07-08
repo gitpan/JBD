@@ -1,6 +1,6 @@
 package JBD::Core::Storable;
 # ABSTRACT: abstraction around retrieve/nstore
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 #/ A JBD::Core::Storable object provides two methods:
 #/ - load(), which takes a callback sub, attempts to retrieve
@@ -103,7 +103,7 @@ JBD::Core::Storable - abstraction around retrieve/nstore
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 AUTHOR
 
