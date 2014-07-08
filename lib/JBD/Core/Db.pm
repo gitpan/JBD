@@ -1,6 +1,6 @@
 package JBD::Core::Db;
 # ABSTRACT: a DBI abstraction
-our $VERSION = '0.03'; # VERSION
+our $VERSION = '0.04'; # VERSION
 
 #/ JBD::Core::Db is a simple DBI wrapper.
 #/ Because of the use of LIMIT, this package assumes your database
@@ -177,7 +177,7 @@ JBD::Core::Db - a DBI abstraction
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 AUTHOR
 

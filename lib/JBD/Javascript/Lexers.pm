@@ -1,6 +1,6 @@
 package JBD::Javascript::Lexers;
 # ABSTRACT: Javascript lexers
-our $VERSION = '0.03'; # VERSION
+our $VERSION = '0.04'; # VERSION
 
 # Javascript Lexers.
 # @author Joel Dalley
@@ -543,7 +543,7 @@ JBD::Javascript::Lexers - Javascript lexers
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 AUTHOR
 

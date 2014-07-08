@@ -26,8 +26,6 @@ my %WriteMakefileArgs = (
     "Data::Dumper" => 0,
     "Exporter" => 0,
     "File::Slurp" => 0,
-    "JBD::Javascript::Grammar" => 0,
-    "JBD::Javascript::Transformers" => 0,
     "Module::Load" => 0,
     "Scalar::Util" => 0,
     "Storable" => 0,
@@ -38,7 +36,7 @@ my %WriteMakefileArgs = (
     "warnings" => 0
   },
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.03",
+  "VERSION" => "0.04",
   "test" => {
     "TESTS" => ""
   }
@@ -51,8 +49,6 @@ my %FallbackPrereqs = (
   "Data::Dumper" => 0,
   "Exporter" => 0,
   "File::Slurp" => 0,
-  "JBD::Javascript::Grammar" => 0,
-  "JBD::Javascript::Transformers" => 0,
   "Module::Load" => 0,
   "Scalar::Util" => 0,
   "Storable" => 0,

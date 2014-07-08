@@ -1,6 +1,6 @@
 package JBD::Core::Display;
 # ABSTRACT: template rendering abstraction
-our $VERSION = '0.03'; # VERSION
+our $VERSION = '0.04'; # VERSION
 
 #/ A JBD::Core::Display object is a closure over a
 #/ template file path and hash of standard replacements,
@@ -52,7 +52,7 @@ JBD::Core::Display - template rendering abstraction
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 AUTHOR
 

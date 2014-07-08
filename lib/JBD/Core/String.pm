@@ -1,6 +1,6 @@
 package JBD::Core::String;
 # ABSTRACT: string functions
-our $VERSION = '0.03'; # VERSION
+our $VERSION = '0.04'; # VERSION
 
 # String functions.
 # @author Joel Dalley
@@ -83,7 +83,7 @@ JBD::Core::String - string functions
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 AUTHOR
 

@@ -1,6 +1,6 @@
 package JBD::Parser::State;
 # ABSTRACT: embodies the state of an in-progress parse
-our $VERSION = '0.03'; # VERSION
+our $VERSION = '0.04'; # VERSION
 
 # Encloses an array of lexed JBD::Parser::Tokens, embodies
 # the state of a parse in progress, & provides related subs.
@@ -99,7 +99,7 @@ JBD::Parser::State - embodies the state of an in-progress parse
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 AUTHOR
 

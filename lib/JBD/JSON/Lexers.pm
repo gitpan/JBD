@@ -1,6 +1,6 @@
 package JBD::JSON::Lexers;
 # ABSTRACT: JSON lexers
-our $VERSION = '0.03'; # VERSION
+our $VERSION = '0.04'; # VERSION
 
 # JSON Lexers.
 # @author Joel Dalley
@@ -140,7 +140,7 @@ JBD::JSON::Lexers - JSON lexers
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 AUTHOR
 
